@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chenyxy.github.io/posts/16107/</loc>
+    <loc>https://www.chenyxy.ltd/posts/16107/</loc>
     
     <lastmod>2022-08-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://chenyxy.github.io/link/index.html</loc>
+    <loc>https://www.chenyxy.ltd/link/index.html</loc>
     
     <lastmod>2022-08-11</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://chenyxy.github.io/tags/index.html</loc>
+    <loc>https://www.chenyxy.ltd/tags/index.html</loc>
     
     <lastmod>2022-08-11</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://chenyxy.github.io/categories/index.html</loc>
+    <loc>https://www.chenyxy.ltd/categories/index.html</loc>
     
     <lastmod>2022-08-11</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://chenyxy.github.io/</loc>
+    <loc>https://www.chenyxy.ltd/</loc>
     <lastmod>2022-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
