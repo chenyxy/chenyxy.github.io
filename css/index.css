@@ -1551,6 +1551,19 @@ blockquote footer cite:before {
 blockquote > :last-child {
   margin-bottom: 0 !important;
 }
+#toggle-sidebar {
+  position: fixed;
+  bottom: 70px $sidebar-icon-top;
+  left: $sidebar-icon-left;
+  z-index: 100;
+  font-size: $sidebar-icon-size;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
+}
 :root {
   --hl-color: #90a4ae;
   --hl-bg: #f6f8fa;
