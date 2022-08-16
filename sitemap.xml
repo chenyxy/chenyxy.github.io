@@ -4,7 +4,16 @@
   <url>
     <loc>https://www.chenyxy.ltd/archives/37777.html</loc>
     
-    <lastmod>2022-08-14</lastmod>
+    <lastmod>2022-08-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenyxy.ltd/messageboard/index.html</loc>
+    
+    <lastmod>2022-08-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://www.chenyxy.ltd/messageboard/index.html</loc>
-    
-    <lastmod>2022-08-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chenyxy.ltd/about/index.html</loc>
     
     <lastmod>2022-08-12</lastmod>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://www.chenyxy.ltd/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,28 +93,28 @@
   
   <url>
     <loc>https://www.chenyxy.ltd/tags/%E5%88%B7%E9%A2%98/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.chenyxy.ltd/tags/%E8%90%8C%E6%96%B0/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.chenyxy.ltd/tags/CTF/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.chenyxy.ltd/tags/WEB/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -123,7 +123,7 @@
   
   <url>
     <loc>https://www.chenyxy.ltd/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2022-08-15</lastmod>
+    <lastmod>2022-08-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
