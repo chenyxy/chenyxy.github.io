@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chenyxy.ltd/archives/1.html</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenyxy.ltd/archives/37243.html</loc>
+    
+    <lastmod>2022-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.chenyxy.ltd/archives/37777.html</loc>
     
     <lastmod>2022-11-10</lastmod>
@@ -20,27 +38,9 @@
   </url>
   
   <url>
-    <loc>https://www.chenyxy.ltd/archives/37243.html</loc>
-    
-    <lastmod>2022-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chenyxy.ltd/archives/51925.html</loc>
     
     <lastmod>2022-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chenyxy.ltd/archives/1.html</loc>
-    
-    <lastmod>2022-08-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
