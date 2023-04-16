@@ -8,9 +8,21 @@
       <link href="/archives/57457.html"/>
       <url>/archives/57457.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>修改注册表</p><p>win+r运行regedit，打开注册列表，找到HKEY_CURRENT_USER\SOFTWARE\CLASSES\CLSID，然后在CLSID里面新建一个名为{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}的文件，在文件里面新建一个InprocServer32的项，回车保存，最后选择新创建的项，然后双击右侧窗格中的默认条目，直接按下回车键。</p><p>最后重启电脑就能看到恢复右键完整菜单了。如果想要恢复成win11的样式删除InprocServer32。</p><p><img src="https://chenyxy.oss-cn-hangzhou.aliyuncs.com/img/202303091855756.png"></p>]]></content>
       
       
+      <categories>
+          
+          <category> 杂七杂八 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -145,11 +157,11 @@
       
         <tags>
             
-            <tag> WEB </tag>
-            
             <tag> 刷题 </tag>
             
             <tag> CTF </tag>
+            
+            <tag> WEB </tag>
             
         </tags>
       
@@ -174,11 +186,11 @@
       
         <tags>
             
-            <tag> WEB </tag>
-            
             <tag> 刷题 </tag>
             
             <tag> CTF </tag>
+            
+            <tag> WEB </tag>
             
         </tags>
       
@@ -203,11 +215,11 @@
       
         <tags>
             
-            <tag> WEB </tag>
-            
             <tag> 刷题 </tag>
             
             <tag> CTF </tag>
+            
+            <tag> WEB </tag>
             
             <tag> 萌新 </tag>
             
@@ -234,9 +246,9 @@
       
         <tags>
             
-            <tag> Study </tag>
-            
             <tag> 记录 </tag>
+            
+            <tag> Study </tag>
             
             <tag> 云服务器 </tag>
             
