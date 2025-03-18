@@ -192,13 +192,6 @@
   </url>
   
   <url>
-    <loc>https://www.chenyxy.top/tags/Study/</loc>
-    <lastmod>2025-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chenyxy.top/tags/node-js/</loc>
     <lastmod>2025-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -221,6 +214,13 @@
   
   <url>
     <loc>https://www.chenyxy.top/tags/ERR/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenyxy.top/tags/Study/</loc>
     <lastmod>2025-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,14 +257,14 @@
   </url>
   
   <url>
-    <loc>https://www.chenyxy.top/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.chenyxy.top/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
     <lastmod>2025-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.chenyxy.top/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <loc>https://www.chenyxy.top/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
