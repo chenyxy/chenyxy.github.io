@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chenyxy.xyz/baidu_verify_codeva-eEF7tR0dOQ.html</loc>
+    
+    <lastmod>2025-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.chenyxy.xyz/archives/3183.html</loc>
     
     <lastmod>2025-03-18</lastmod>
@@ -173,13 +182,6 @@
 
   
   <url>
-    <loc>https://www.chenyxy.xyz/tags/hexo/</loc>
-    <lastmod>2025-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chenyxy.xyz/tags/%E5%88%B7%E9%A2%98/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -195,6 +197,13 @@
   
   <url>
     <loc>https://www.chenyxy.xyz/tags/WEB/</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenyxy.xyz/tags/hexo/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -252,13 +261,6 @@
 
   
   <url>
-    <loc>https://www.chenyxy.xyz/categories/%E5%AE%89%E8%A3%85%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2025-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chenyxy.xyz/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://www.chenyxy.xyz/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.chenyxy.xyz/categories/%E5%AE%89%E8%A3%85%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -274,6 +276,13 @@
   
   <url>
     <loc>https://www.chenyxy.xyz/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <lastmod>2025-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenyxy.xyz/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
