@@ -182,7 +182,14 @@
 
   
   <url>
-    <loc>https://chenyxy.xyz/tags/Study/</loc>
+    <loc>https://chenyxy.xyz/tags/%E5%88%B7%E9%A2%98/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenyxy.xyz/tags/%E8%90%8C%E6%96%B0/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,14 +203,14 @@
   </url>
   
   <url>
-    <loc>https://chenyxy.xyz/tags/%E5%88%B7%E9%A2%98/</loc>
+    <loc>https://chenyxy.xyz/tags/WEB/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://chenyxy.xyz/tags/WEB/</loc>
+    <loc>https://chenyxy.xyz/tags/Study/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -245,13 +252,6 @@
   </url>
   
   <url>
-    <loc>https://chenyxy.xyz/tags/%E8%90%8C%E6%96%B0/</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://chenyxy.xyz/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -261,14 +261,14 @@
 
   
   <url>
-    <loc>https://chenyxy.xyz/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://chenyxy.xyz/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://chenyxy.xyz/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://chenyxy.xyz/categories/%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
